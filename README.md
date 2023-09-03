@@ -38,8 +38,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/KiRaaDz/KiRaaDz/snake.yml" alt="Snake animation" />
-
-###
